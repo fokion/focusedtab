@@ -1,2 +1,2 @@
 # focusedtab
-get the focused tab from javascript using localstorage events
+I want to capture the user behavior when we visit a page. The scope of this project is to experiment with the localStorage events and Visibility Api in order to check if the user is active on a page and if we hide the window. If we hide the window we have to measure how many seconds we are inactive and if we transition from one window to another we want to capture the history. Or at least where the user is now. 
